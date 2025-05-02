@@ -19,7 +19,7 @@ Este projeto implementa uma hierarquia de classes para representar relógios de 
 
 ## 🧱 Estrutura de Classes
 
-### 🔹 Classe Abstrata: `Relogio`
+### 🔹 Classe Abstrata: `Clock`
 
 - **Atributos:**
   - `hour`, `minute`, `second`
